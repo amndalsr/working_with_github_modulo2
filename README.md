@@ -1,5 +1,5 @@
 # Github4Woman - working with github modulo2 📝
-WoMakersCode - trabalhando com github Atividade do módulo 1
+WoMakersCode - trabalhando com github Atividade do módulo 2
 
 ***
 
