@@ -1,4 +1,4 @@
-# GitHub4Woman - working with github modulo2 📝
+# Github4Woman - working with github modulo2 📝
 WoMakersCode - trabalhando com github Atividade do módulo 1
 
 ***
